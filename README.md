@@ -1,4 +1,12 @@
-# command-light
+<h2 align="center">
+  command-light
+</h2>
+
+<p align="center">
+  Make your product more easy to use and more productive integrate with Command Light
+</p>
+
+---
 
 ## Motivation
 
@@ -20,3 +28,8 @@ command light v0.0.1 计划支持的 Feature
 - [ ] 支持多种唤起方式
 - [ ] 支持自定义 item 展示
 - [ ] 支持自定义跳转
+
+## Roadmap
+
+- 2023Q1 beta
+- 2023Q2 v0.0.1
