@@ -1,5 +1,5 @@
 <h2 align="center">
-  command-light
+  Command Light
 </h2>
 
 <p align="center">
@@ -14,15 +14,15 @@
 
 受 Linear 和 mac os 的启发，command line 以及 spotlight 的这种操作和交互方式似乎可以在不改变产品信息架构和页面交互的情况下，成为一种用户操作的一种快捷方式。
 
-因此我们构建了 command light，希望 command light 可以帮助到众多的产品。
+因此我们构建了 command light，希望 Command Light 可以帮助到众多的产品。
 
 ## Design 
 
-开发者可以通过 npm/yarn 的形式，将 command light 引入到代码中，command light 采用 headless ui 的设计形式，开发者可以对其样式进行自定义，同时开发者还可以利用提供的 Api 进行组合，开发出自己想用的功能。
+开发者可以通过 npm/yarn 的形式，将 Command Light 引入到代码中，采用 headless ui 的设计理念，开发者可以对其样式进行自定义，同时开发者还可以利用提供的 Api 进行组合，开发出自己想用的功能。
 
 ## Feature
 
-command light v0.0.1 计划支持的 Feature
+Command Light v0.0.1 计划支持的 feature
 
 - [ ] 按照 headless 组件设计理念来进行开发
 - [ ] 支持多种唤起方式
