@@ -14,7 +14,7 @@
 
 受 Linear 和 mac os 的启发，command line 以及 spotlight 的这种操作和交互方式似乎可以在不改变产品信息架构和页面交互的情况下，成为一种用户操作的一种快捷方式。
 
-因此我们构建了 command light，希望 Command Light 可以帮助到众多的产品。
+因此我们构建了 Command Light，希望 Command Light 可以帮助到众多的产品。
 
 ## Design 
 
