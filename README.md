@@ -1,35 +1,37 @@
 <h2 align="center">
-  Command Light
+  Commandot
 </h2>
 
 <p align="center">
-  Make your product more easy to use and more productive integrate with Command Light
+  Make your product more easy to use and more productive integrate with Commandot
 </p>
 
 ---
 
 ## Motivation
 
-互联网产品在不断满足用户需求的同时，信息架构、功能也在变的更加复杂，对于新用户来说，复杂的界面以及设置会增加上手的难度，而对于熟悉产品的用户，更快捷的去操作功能，而不是重复的去来回点击，成为他们的诉求。
+As internet products continue to satisfy user needs, their information architecture and features become increasingly complex. This complexity can make it difficult for new users to navigate the interface and settings. At the same time, experienced users desire faster ways to access functions without repeated clicking.
 
-受 Linear 和 mac os 的启发，command line 以及 spotlight 的这种操作和交互方式似乎可以在不改变产品信息架构和页面交互的情况下，成为一种用户操作的一种快捷方式。
+Inspired by Linear and macOS, the command line and spotlight interaction method seems to offer a solution to streamline user interaction without changing the product's information architecture or page interaction.
 
-因此我们构建了 Command Light，希望 Command Light 可以帮助到众多的产品。
+With this motivation in mind, we have developed Commandot, in the hope that it can assist many products in providing a more efficient and user-friendly experience.
 
 ## Design 
 
-开发者可以通过 npm/yarn 的形式，将 Command Light 引入到代码中，采用 headless ui 的设计理念，开发者可以对其样式进行自定义，同时开发者还可以利用提供的 Api 进行组合，开发出自己想用的功能。
+Developers can easily integrate Command Hunt into their codebase via npm/yarn. They can customize the style of Commandot and utilize the provided APIs to create their desired functionality. Additionally, Commandot will support Chat GPT, allowing for seamless integration and various types of interactions through simple configuration.
+
 
 ## Feature
 
-Command Light v0.0.1 计划支持的 feature
+Commandot v0.0.1 feature
 
-- [ ] 按照 headless 组件设计理念来进行开发
-- [ ] 支持多种唤起方式
-- [ ] 支持自定义 item 展示
-- [ ] 支持自定义跳转
+- [ ] Support TailwindCSS
+- [ ] Support for multiple invocation methods
+- [ ] Support for custom item display
+- [ ] Support Chat GPT
+- [ ] Support React,Next.js and other react framework
 
 ## Roadmap
 
-- 2023Q1 beta
-- 2023Q2 v0.0.1
+- 2023Q2 beta
+- 2023Q2 v0.0.1 launch
