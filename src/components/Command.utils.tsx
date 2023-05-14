@@ -1,4 +1,3 @@
-import React from 'react'
+import * as RadixDialog from '@radix-ui/react-dialog'
+import * as React from 'react'
 
-type CommandPrimitiveElement = React.ElementRef<typeof CommandPrimitive>
-type CommandPrimitiveProps = React.ComponentPropsWithoutRef<typeof CommandPrimitive>
